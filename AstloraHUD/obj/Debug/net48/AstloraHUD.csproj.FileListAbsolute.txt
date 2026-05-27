@@ -1,0 +1,9 @@
+C:\Users\Zhang\OneDrive\Desktop\Plugins\AstloraHUD\obj\Debug\net48\AstloraHUD.csproj.AssemblyReference.cache
+C:\Users\Zhang\OneDrive\Desktop\Plugins\AstloraHUD\obj\Debug\net48\AstloraHUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhang\OneDrive\Desktop\Plugins\AstloraHUD\obj\Debug\net48\AstloraHUD.AssemblyInfoInputs.cache
+C:\Users\Zhang\OneDrive\Desktop\Plugins\AstloraHUD\obj\Debug\net48\AstloraHUD.AssemblyInfo.cs
+C:\Users\Zhang\OneDrive\Desktop\Plugins\AstloraHUD\obj\Debug\net48\AstloraHUD.csproj.CoreCompileInputs.cache
+C:\Users\Zhang\OneDrive\Desktop\Plugins\AstloraHUD\bin\Debug\net48\AstloraHUD.dll
+C:\Users\Zhang\OneDrive\Desktop\Plugins\AstloraHUD\bin\Debug\net48\AstloraHUD.pdb
+C:\Users\Zhang\OneDrive\Desktop\Plugins\AstloraHUD\obj\Debug\net48\AstloraHUD.dll
+C:\Users\Zhang\OneDrive\Desktop\Plugins\AstloraHUD\obj\Debug\net48\AstloraHUD.pdb
