@@ -5,6 +5,7 @@ This modern minimalist HUD plugin is designed to provide real-time player count,
 
 The project is currently still being actively improved and polished.
 If you encounter any issues or have suggestions, feel free to contact me at [contact@astlora.com](mailto:contact@astlora.com)
+
 Discord felix_liew
 
 Thank you everyone for the support and feedback.
