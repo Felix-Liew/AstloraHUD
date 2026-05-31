@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uwkD52X6Yi4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zhang\\OneDrive\\Desktop\\Plugins\\AstloraHUD\\AstloraHUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zhang\\.nuget\\packages\\restoremonarchy.rocketredist\\3.26.3.2\\restoremonarchy.rocketredist.3.26.3.2.nupkg.sha512",
+    "C:\\Users\\Zhang\\.nuget\\packages\\restoremonarchy.unturnedredist\\3.26.3.2\\restoremonarchy.unturnedredist.3.26.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
